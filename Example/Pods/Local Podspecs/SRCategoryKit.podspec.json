@@ -1,0 +1,22 @@
+{
+  "name": "SRCategoryKit",
+  "version": "0.1.0",
+  "summary": "A short description of SRCategoryKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/sunfengke/SRCategoryKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "sunfengke": "sunfengke@huawei.com"
+  },
+  "source": {
+    "git": "https://github.com/sunfengke/SRCategoryKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "SRCategoryKit/Classes/**/*"
+}

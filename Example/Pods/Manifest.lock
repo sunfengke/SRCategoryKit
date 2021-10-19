@@ -1,0 +1,16 @@
+PODS:
+  - SRCategoryKit (0.1.0)
+
+DEPENDENCIES:
+  - SRCategoryKit (from `../`)
+
+EXTERNAL SOURCES:
+  SRCategoryKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SRCategoryKit: c6af20c2fb1fa2c10ed7b6986985bc4bbe691314
+
+PODFILE CHECKSUM: f2bfbfffb019ed79ce875eedd0c6a58bba979e7b
+
+COCOAPODS: 1.11.0
