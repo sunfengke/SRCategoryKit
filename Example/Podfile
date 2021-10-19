@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'SRCategoryKit_Example' do
+  pod 'SRCategoryKit', :path => '../'
+
+  target 'SRCategoryKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
